@@ -41,5 +41,5 @@ Regex Note
 | \f | form feed |
 | \r | carriage return |
 
-**_Note: Don't forget to escape the following characters if used!_**
+**_Note: Don't forget to escape the following characters if used!_**  
 **. + * ? [ ] $ ^ ( ) { } | \**
