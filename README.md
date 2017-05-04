@@ -43,3 +43,8 @@ Regex Note
 
 **_Note: Don't forget to escape the following characters if used!_**  
 . + * ? [ ] $ ^ ( ) { } | \
+
+
+### References
+
+1. [Regular Expressions with re Python Tutorial](https://pythonprogramming.net/regular-expressions-regex-tutorial-python-3/)
