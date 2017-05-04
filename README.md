@@ -3,8 +3,8 @@ Regex Note
 
 ### Identifiers
 
-| symbol | meaning |
-|--------|---------|
+| Identifiers | Meaning |
+|-------------|---------|
 | \  | escape character |
 | \d | any number |
 | \D | anything but a number |
