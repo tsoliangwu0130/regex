@@ -29,3 +29,17 @@ Regex Note
 | [] | range or variance |
 | {x}  | expecting x amount |
 | {x, y} | expect to see this x-y amounts of the preceding code
+
+### White Space Characters
+
+| White Space Characters | Meaning |
+|-----------|---------|
+| \n | new line |
+| \s | space |
+| \t | tab |
+| \e | escape |
+| \f | form feed |
+| \r | carriage return |
+
+**_Note: Don't forget to escape the following characters if used!_**
+**. + * ? [ ] $ ^ ( ) { } | \**
