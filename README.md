@@ -42,4 +42,4 @@ Regex Note
 | \r | carriage return |
 
 **_Note: Don't forget to escape the following characters if used!_**  
-**. + * ? [ ] $ ^ ( ) { } | \**
+__. + * ? [ ] $ ^ ( ) { } | \__
