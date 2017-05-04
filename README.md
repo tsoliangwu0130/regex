@@ -14,7 +14,7 @@ Regex Note
 | \W | anything but a letter |
 | \b | space around whole words |
 | .  | any character, except for a new line |
-| \. | period |
+| \\. | period |
 
 ### Modifiers
 
