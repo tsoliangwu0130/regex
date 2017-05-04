@@ -26,7 +26,7 @@ Regex Note
 | $ | match the end of a string |
 | ^ | match the beginning of a string |
 | &#124; | either or |
-| [] | range or variance |
+| [] | range or variance e.g. [A-Z]|
 | {x}  | expecting x amount |
 | {x, y} | expect to see this x-y amounts of the preceding code
 
